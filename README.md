@@ -65,8 +65,7 @@ README.md            # Этот файл
     Эта команда установит `guzzlehttp/guzzle` и другие необходимые пакеты.
 
 3.  **Настройте конфигурационный файл:**
-    *   Скопируйте `config/config.example.php` (если он будет создан) в `config/config.php`.
-        Если `config.example.php` нет, создайте `config/config.php` вручную.
+    *   Cоздайте `config/config.php` вручную.
     *   Откройте `config/config.php` и заполните все необходимые параметры:
         *   `telegram_bot_token`: Ваш токен Telegram бота.
         *   `telegram_bot_username`: Имя пользователя вашего бота (без `@`).
