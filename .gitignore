@@ -1,0 +1,18 @@
+/vendor/
+/logs/
+/history/
+/storage/token_usage/
+/storage/chat_roles.json
+
+# Если вы решите не коммитить config.php с реальными ключами:
+config/config.php
+
+# Файлы IDE (пример для PhpStorm)
+/.idea/
+
+# Файлы Windows
+Thumbs.db
+Desktop.ini
+
+# Файлы macOS
+.DS_Store 
